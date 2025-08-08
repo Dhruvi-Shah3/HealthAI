@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}MediScan AI	{% endblock %}</title>
+      <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <nav class="bg-white shadow-md sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+      <h1 class="text-3xl font-extrabold text-blue-600 tracking-tight">MediScan AI	</h1>
+      <div class="space-x-4">
+        <a href="/" class="text-gray-700 hover:text-blue-600 font-medium">Home</a>
+        <a href="/about/" class="text-gray-700 hover:text-blue-600 font-medium">About</a>
+        <a href="/blog/" class="text-gray-700 hover:text-blue-600 font-medium">Blog</a>
+        <a href="/predict/" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg shadow transition font-medium">Start Diagnosis</a>
+      </div>
+    </div>
+  </nav>
+
+    <main>
+    {% block content %}{% endblock %}
+  </main>
+
+   <footer class="bg-white border-t mt-16">
+    <div class="max-w-7xl mx-auto px-6 py-8 text-center text-gray-500 text-sm">
+      © 2025 MediScan AI	. All rights reserved.
+    </div>
+  </footer>
+</body>
+</html>

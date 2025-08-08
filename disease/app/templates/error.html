@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Error</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-red-50 flex items-center justify-center min-h-screen">
+    <div class="bg-red-100 border border-red-300 text-red-700 p-8 rounded-2xl shadow-md text-center max-w-md w-full">
+        <h1 class="text-3xl font-bold mb-4">Oops! Something went wrong</h1>
+        <p class="text-lg mb-6">{{ message }}</p>
+        <a href="{% url 'predict' %}" 
+           class="bg-red-700 text-white px-6 py-3 rounded-lg shadow hover:bg-red-800 transition">
+           Try Again
+        </a>
+    </div>
+</body>
+</html>

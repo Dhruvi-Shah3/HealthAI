@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block title %}About | MediScan AI{% endblock %}
+
+{% block content %}
+<section class="py-20 px-6 bg-white text-center">
+  <div class="max-w-4xl mx-auto">
+    <h2 class="text-4xl font-bold text-blue-700 mb-6">About MediScan AI	</h2>
+    <p class="text-gray-700 text-lg leading-relaxed mb-6">
+      MediScan AI	 is a smart AI-powered symptom checker built to help users get instant predictions for possible health conditions. Our goal is to make preliminary health screening fast, private, and accessible.
+    </p>
+    <div class="mt-10 text-left space-y-6">
+      <div>
+        <h3 class="text-xl font-semibold text-blue-600">🔬 How it works</h3>
+        <p class="text-gray-600 mt-2">
+          Our system asks a set of symptom-based questions and uses a machine learning model trained on medical data to predict possible diseases. The prediction is followed by temporary precautions for user guidance.
+        </p>
+      </div>
+
+      <div>
+        <h3 class="text-xl font-semibold text-blue-600">📦 Technology Used</h3>
+        <ul class="list-disc list-inside text-gray-600 mt-2">
+          <li>Django (Backend Web Framework)</li>
+          <li>Pandas & Scikit-learn (Model & Data Processing)</li>
+          <li>Tailwind CSS (UI Framework)</li>
+          <li>Session-based multi-step form (Symptom collection)</li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-xl font-semibold text-blue-600">⚠️ Disclaimer</h3>
+        <p class="text-gray-600 mt-2">
+          This tool is not a replacement for professional medical advice. Always consult a doctor for medical concerns.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

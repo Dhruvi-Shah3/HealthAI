@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Prediction Result</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-br from-green-50 via-blue-50 to-purple-50 min-h-screen flex flex-col">
+
+  <!-- Navbar -->
+  <nav class="bg-white shadow-md sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+      <h1 class="text-3xl font-extrabold text-blue-600 tracking-tight">MediScan AI</h1>
+      <div class="space-x-4">
+        <a href="/" class="text-gray-700 hover:text-blue-600 font-medium">Home</a>
+        <a href="/about/" class="text-gray-700 hover:text-blue-600 font-medium">About</a>
+        <a href="/blog/" class="text-gray-700 hover:text-blue-600 font-medium">Blog</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Result Card -->
+  <main class="flex-1 flex items-center justify-center px-4 py-12">
+    <div class="bg-white shadow-2xl rounded-2xl p-10 w-full max-w-2xl text-center">
+
+      <!-- Title -->
+      <h1 class="text-4xl font-bold text-green-700 mb-6">🧠 Your Predicted Condition</h1>
+
+      <p class="text-xl text-gray-800 mb-4">
+        Based on your responses, our AI system predicts you may be experiencing:
+      </p>
+
+      <!-- Disease -->
+      <p class="text-3xl font-extrabold text-blue-700 mb-6">
+        {{ disease }}
+      </p>
+
+      <!-- Extra Symptoms -->
+      {% if extra_symptoms %}
+        <div class="bg-blue-50 p-4 rounded-lg border border-blue-100 mb-6">
+          <p class="text-gray-600 text-sm mb-2 font-medium">You also mentioned:</p>
+          <p class="italic text-gray-700">{{ extra_symptoms }}</p>
+        </div>
+      {% endif %}
+
+      <!-- Disclaimer -->
+      <p class="text-gray-500 text-sm mb-8">
+        ⚠️ This prediction is not a medical diagnosis. Please consult a certified medical professional for accurate advice.
+      </p>
+
+      <!-- Action Buttons -->
+      <div class="flex flex-col md:flex-row justify-center gap-4">
+        <a href="/" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-medium transition">
+          🔁 Start Over
+        </a>
+        <a href="{% url 'show_precaution' %}" class="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-medium transition">
+          🛡️ View Precautions
+        </a>
+      </div>
+
+    </div>
+  </main>
+
+</body>
+</html>

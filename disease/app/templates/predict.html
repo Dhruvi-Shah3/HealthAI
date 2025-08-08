@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Symptom Checker</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50 min-h-screen flex flex-col">
+
+  <!-- Navbar -->
+  <nav class="bg-white shadow-md sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+      <h1 class="text-3xl font-extrabold text-blue-600 tracking-tight">MediScan AI</h1>
+      <div class="space-x-4">
+        <a href="/" class="text-gray-700 hover:text-blue-600 font-medium">Home</a>
+        <a href="/about/" class="text-gray-700 hover:text-blue-600 font-medium">About</a>
+        <a href="/blog/" class="text-gray-700 hover:text-blue-600 font-medium">Blog</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Section -->
+  <main class="flex-1 flex items-center justify-center px-4 py-12">
+    <div class="bg-white shadow-xl rounded-2xl p-10 w-full max-w-3xl">
+      
+      <!-- Header -->
+      <div class="text-center mb-8">
+        <h1 class="text-4xl font-extrabold text-blue-700 mb-2">🩺 Symptom Checker</h1>
+        <p class="text-gray-600 text-lg">Question {{ current_index|add:"1" }} of {{ total_questions }}</p>
+      </div>
+
+      <!-- Form -->
+      <form method="post" action="" class="space-y-10">
+        {% csrf_token %}
+
+        <!-- Question -->
+        <div class="text-center">
+          <p class="text-2xl font-medium text-gray-800">
+            Do you have <span class="text-blue-600 font-semibold">{{ symptom }}</span>?
+          </p>
+        </div>
+
+        <!-- Hidden Inputs -->
+        <input type="hidden" name="current_index" value="{{ current_index }}">
+        <input type="hidden" name="symptom" value="{{ symptom }}">
+
+        <!-- Options -->
+        <div class="flex justify-center gap-16">
+          <label class="flex items-center gap-3 text-lg cursor-pointer">
+            <input type="radio" name="answer" value="yes" class="accent-blue-600 w-5 h-5">
+            <span>Yes</span>
+          </label>
+          <label class="flex items-center gap-3 text-lg cursor-pointer">
+            <input type="radio" name="answer" value="no" class="accent-red-500 w-5 h-5" checked>
+            <span>No</span>
+          </label>
+        </div>
+
+        <!-- Submit Button -->
+        <div class="text-center">
+          <button type="submit"
+            class="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg text-lg font-semibold shadow transition">
+            {% if is_last %}Submit{% else %}Next{% endif %}
+          </button>
+        </div>
+      </form>
+
+      <!-- Footer Text -->
+      <p class="text-center text-sm text-gray-400 mt-10">Powered by AI Diagnosis System</p>
+    </div>
+  </main>
+</body>
+
+</html>

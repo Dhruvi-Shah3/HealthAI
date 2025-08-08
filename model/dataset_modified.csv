@@ -1,0 +1,305 @@
+Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7,Symptom_8,Symptom_9,Symptom_10,Symptom_11,Symptom_12,Symptom_13,Symptom_14,Symptom_15,Symptom_16,Symptom_17,Disease
+skin_rash,blurred_and_distorted_vision,dischromic__patches,nodal_skin_eruptions,,,,,,,,,,,,,,fungal infection
+skin_rash,dischromic__patches,brittle_nails,,,,,,,,,,,,,,,fungal infection
+family_history,itching,nodal_skin_eruptions,,,,,,,,,,,,,,,fungal infection
+skin_rash,dischromic__patches,yellowing_of_eyes,,,,,,,,,,,,,,,fungal infection
+weight_gain,itching,nodal_skin_eruptions,nausea,,,,,,,,,,,,,,fungal infection
+shivering,watering_from_eyes,belly_pain,continuous_sneezing,,,,,,,,,,,,,,allergy
+chills,loss_of_balance,shivering,,,,,,,,,,,,,,,allergy
+chills,hip_joint_pain,watering_from_eyes,,,,,,,,,,,,,,,allergy
+lack_of_concentration,shivering,continuous_sneezing,,,,,,,,,,,,,,,allergy
+shivering,toxic_look_(typhos),continuous_sneezing,,,,,,,,,,,,,,,allergy
+lethargy,chest_pain,acidity,stomach_pain,ulcers_on_tongue,vomiting,,,,,,,,,,,,gerd
+chest_pain,irritability,stomach_pain,ulcers_on_tongue,vomiting,,,,,,,,,,,,,gerd
+burning_micturition,chest_pain,acidity,stomach_pain,vomiting,,,,,,,,,,,,,gerd
+chest_pain,cough,stomach_pain,inflammatory_nails,ulcers_on_tongue,,,,,,,,,,,,,gerd
+cough,acidity,stomach_pain,ulcers_on_tongue,vomiting,,,,,,,,,,,,,gerd
+vomiting,movement_stiffness,cough,acidity,ulcers_on_tongue,,,,,,,,,,,,,gerd
+chest_pain,cough,acidity,blurred_and_distorted_vision,ulcers_on_tongue,,,,,,,,,,,,,gerd
+loss_of_appetite,yellowish_skin,itching,yellowing_of_eyes,nausea,internal_itching,abdominal_pain,vomiting,,,,,,,,,,chronic cholestasis
+loss_of_appetite,mood_swings,vomiting,yellowing_of_eyes,nausea,abdominal_pain,,,,,,,,,,,,chronic cholestasis
+loss_of_appetite,yellowish_skin,diarrhoea,itching,yellowing_of_eyes,abdominal_pain,,,,,,,,,,,,chronic cholestasis
+irregular_sugar_level,loss_of_appetite,vomiting,itching,yellowing_of_eyes,abdominal_pain,,,,,,,,,,,,chronic cholestasis
+stomach_bleeding,loss_of_appetite,vomiting,itching,yellowing_of_eyes,abdominal_pain,,,,,,,,,,,,chronic cholestasis
+yellowish_skin,loss_of_smell,itching,yellowing_of_eyes,nausea,abdominal_pain,,,,,,,,,,,,chronic cholestasis
+yellowish_skin,dark_urine,itching,yellowing_of_eyes,nausea,vomiting,,,,,,,,,,,,chronic cholestasis
+loss_of_appetite,yellowish_skin,vomiting,itching,swelling_of_stomach,abdominal_pain,nausea,,,,,,,,,,,chronic cholestasis
+burning_micturition,knee_pain,stomach_pain,itching,spotting__urination,,,,,,,,,,,,,drug reaction
+stomach_pain,spotting__urination,burning_micturition,lethargy,,,,,,,,,,,,,,drug reaction
+skin_rash,stomach_pain,itching,burning_micturition,,,,,,,,,,,,,,drug reaction
+stomach_pain,itching,spotting__urination,yellow_urine,,,,,,,,,,,,,,drug reaction
+stomach_pain,itching,knee_pain,burning_micturition,vomiting,,,,,,,,,,,,,drug reaction
+restlessness,skin_rash,stomach_pain,burning_micturition,,,,,,,,,,,,,,drug reaction
+loss_of_appetite,stomach_pain,abdominal_pain,internal_itching,vomiting,,,,,,,,,,,,,peptic ulcer diseae
+vomiting,weight_gain,indigestion,internal_itching,abdominal_pain,,,,,,,,,,,,,peptic ulcer diseae
+indigestion,swelling_of_stomach,passage_of_gases,internal_itching,abdominal_pain,,,,,,,,,,,,,peptic ulcer diseae
+loss_of_appetite,excessive_hunger,passage_of_gases,internal_itching,vomiting,,,,,,,,,,,,,peptic ulcer diseae
+blister,indigestion,abdominal_pain,internal_itching,vomiting,,,,,,,,,,,,,peptic ulcer diseae
+loss_of_appetite,indigestion,passage_of_gases,internal_itching,vomiting,,,,,,,,,,,,,peptic ulcer diseae
+blood_in_sputum,vomiting,indigestion,passage_of_gases,internal_itching,abdominal_pain,,,,,,,,,,,,peptic ulcer diseae
+muscle_wasting,knee_pain,patches_in_throat,extra_marital_contacts,,,,,,,,,,,,,,aids
+muscle_wasting,high_fever,extra_marital_contacts,vomiting,,,,,,,,,,,,,,aids
+muscle_wasting,swollen_blood_vessels,extra_marital_contacts,,,,,,,,,,,,,,,aids
+movement_stiffness,patches_in_throat,extra_marital_contacts,,,,,,,,,,,,,,,aids
+muscle_wasting,rusty_sputum,high_fever,vomiting,,,,,,,,,,,,,,aids
+irregular_sugar_level,polyuria,obesity,weight_loss,restlessness,swollen_blood_vessels,excessive_hunger,increased_appetite,blurred_and_distorted_vision,fatigue,headache,,,,,,,diabetes
+irregular_sugar_level,polyuria,obesity,weight_loss,restlessness,excessive_hunger,increased_appetite,blurred_and_distorted_vision,,,,,,,,,,diabetes
+irregular_sugar_level,polyuria,obesity,restlessness,excessive_hunger,increased_appetite,cold_hands_and_feets,blurred_and_distorted_vision,fatigue,,,,,,,,,diabetes
+irregular_sugar_level,polyuria,obesity,weight_loss,lethargy,excessive_hunger,blurred_and_distorted_vision,fatigue,skin_peeling,,,,,,,,,diabetes
+irregular_sugar_level,polyuria,obesity,restlessness,toxic_look_(typhos),excessive_hunger,increased_appetite,blurred_and_distorted_vision,fatigue,headache,,,,,,,,diabetes
+polyuria,obesity,weight_loss,belly_pain,lethargy,excessive_hunger,increased_appetite,blurred_and_distorted_vision,fatigue,,,,,,,,,diabetes
+irregular_sugar_level,polyuria,obesity,weight_loss,lethargy,excessive_hunger,bladder_discomfort,increased_appetite,fatigue,,,,,,,,,diabetes
+irregular_sugar_level,polyuria,weight_loss,lethargy,restlessness,excessive_hunger,blurred_and_distorted_vision,fatigue,headache,,,,,,,,,diabetes
+irregular_sugar_level,polyuria,obesity,weight_loss,lethargy,restlessness,redness_of_eyes,increased_appetite,fatigue,,,,,,,,,diabetes
+sunken_eyes,diarrhoea,bloody_stool,vomiting,nausea,,,,,,,,,,,,,gastroenteritis
+dehydration,diarrhoea,knee_pain,,,,,,,,,,,,,,,gastroenteritis
+dehydration,weakness_in_limbs,vomiting,,,,,,,,,,,,,,,gastroenteritis
+diarrhoea,breathlessness,vomiting,headache,,,,,,,,,,,,,,gastroenteritis
+dehydration,receiving_blood_transfusion,vomiting,,,,,,,,,,,,,,,gastroenteritis
+weakness_in_limbs,mucoid_sputum,breathlessness,high_fever,family_history,fatigue,,,,,,,,,,,,bronchial asthma
+mucoid_sputum,breathlessness,cough,painful_walking,family_history,,,,,,,,,,,,,bronchial asthma
+mucoid_sputum,chest_pain,breathlessness,high_fever,fatigue,,,,,,,,,,,,,bronchial asthma
+breathlessness,cough,blackheads,family_history,fatigue,nausea,,,,,,,,,,,,bronchial asthma
+mucoid_sputum,high_fever,family_history,fatigue,extra_marital_contacts,,,,,,,,,,,,,bronchial asthma
+yellow_crust_ooze,mucoid_sputum,breathlessness,cough,fatigue,,,,,,,,,,,,,bronchial asthma
+breathlessness,cough,high_fever,family_history,inflammatory_nails,headache,,,,,,,,,,,,bronchial asthma
+loss_of_balance,headache,lack_of_concentration,chest_pain,cramps,,,,,,,,,,,,,hypertension
+dizziness,lack_of_concentration,chest_pain,indigestion,,,,,,,,,,,,,,hypertension
+dizziness,loss_of_balance,diarrhoea,headache,,,,,,,,,,,,,,hypertension
+lack_of_concentration,internal_itching,chest_pain,headache,,,,,,,,,,,,,,hypertension
+dizziness,blister,chest_pain,headache,headache,,,,,,,,,,,,,hypertension
+dizziness,loss_of_balance,headache,prominent_veins_on_calf,,,,,,,,,,,,,,hypertension
+headache,indigestion,excessive_hunger,stiff_neck,acidity,depression,visual_disturbances,blurred_and_distorted_vision,puffy_face_and_eyes,,,,,,,,,migraine
+headache,indigestion,excessive_hunger,stiff_neck,irritability,depression,visual_disturbances,inflammatory_nails,,,,,,,,,,migraine
+headache,mucoid_sputum,excessive_hunger,stiff_neck,acidity,irritability,depression,blurred_and_distorted_vision,nausea,,,,,,,,,migraine
+indigestion,excessive_hunger,stiff_neck,acidity,irritability,depression,visual_disturbances,inflammatory_nails,fatigue,,,,,,,,,migraine
+headache,indigestion,excessive_hunger,dizziness,acidity,irritability,depression,visual_disturbances,,,,,,,,,,migraine
+headache,indigestion,acidity,irritability,depression,visual_disturbances,blurred_and_distorted_vision,neck_pain,,,,,,,,,,migraine
+headache,indigestion,excessive_hunger,depression,irritability,visual_disturbances,blurred_and_distorted_vision,nausea,,,,,,,,,,migraine
+headache,indigestion,excessive_hunger,stiff_neck,acidity,shivering,visual_disturbances,blurred_and_distorted_vision,,,,,,,,,,migraine
+headache,indigestion,stiff_neck,acidity,depression,visual_disturbances,skin_rash,blurred_and_distorted_vision,,,,,,,,,,migraine
+headache,pain_during_bowel_movements,excessive_hunger,stiff_neck,acidity,irritability,depression,blurred_and_distorted_vision,,,,,,,,,,migraine
+loss_of_balance,blister,weakness_in_limbs,back_pain,neck_pain,vomiting,,,,,,,,,,,,cervical spondylosis
+dizziness,weakness_in_limbs,neck_pain,puffy_face_and_eyes,headache,,,,,,,,,,,,,cervical spondylosis
+dizziness,loss_of_balance,enlarged_thyroid,neck_pain,,,,,,,,,,,,,,cervical spondylosis
+dizziness,loss_of_balance,distention_of_abdomen,weakness_in_limbs,,,,,,,,,,,,,,cervical spondylosis
+loss_of_balance,back_pain,weakness_in_limbs,vomiting,,,,,,,,,,,,,,cervical spondylosis
+dizziness,headache,weakness_in_limbs,neck_pain,,,,,,,,,,,,,,cervical spondylosis
+altered_sensorium,throat_irritation,headache,vomiting,,,,,,,,,,,,,,paralysis (brain hemorrhage)
+altered_sensorium,movement_stiffness,weakness_of_one_body_side,headache,,,,,,,,,,,,,,paralysis (brain hemorrhage)
+muscle_wasting,weakness_of_one_body_side,vomiting,,,,,,,,,,,,,,,paralysis (brain hemorrhage)
+mucoid_sputum,altered_sensorium,vomiting,fatigue,,,,,,,,,,,,,,paralysis (brain hemorrhage)
+skin_peeling,headache,vomiting,vomiting,,,,,,,,,,,,,,paralysis (brain hemorrhage)
+weight_loss,yellowish_skin,sunken_eyes,dark_urine,itching,high_fever,fatigue,abdominal_pain,,,,,,,,,,jaundice
+weight_loss,yellowish_skin,dark_urine,high_fever,family_history,fatigue,vomiting,fatigue,,,,,,,,,,jaundice
+blood_in_sputum,weight_loss,dark_urine,itching,high_fever,fatigue,abdominal_pain,,,,,,,,,,,jaundice
+pus_filled_pimples,weight_loss,yellowish_skin,vomiting,itching,high_fever,abdominal_pain,headache,,,,,,,,,,jaundice
+yellowish_skin,excessive_hunger,dark_urine,high_fever,abdominal_pain,fatigue,vomiting,,,,,,,,,,,jaundice
+weight_loss,yellowish_skin,vomiting,dark_urine,mild_fever,fatigue,abdominal_pain,,,,,,,,,,,jaundice
+weight_loss,dark_urine,spinning_movements,itching,abdominal_pain,fatigue,vomiting,,,,,,,,,,,jaundice
+weight_loss,yellowish_skin,vomiting,itching,nausea,fatigue,abdominal_pain,fatigue,,,,,,,,,,jaundice
+weight_loss,joint_pain,dark_urine,itching,high_fever,fatigue,vomiting,,,,,,,,,,,jaundice
+chills,muscle_pain,headache,vomiting,throat_irritation,high_fever,sweating,,,,,,,,,,,malaria
+muscle_pain,headache,pain_during_bowel_movements,diarrhoea,high_fever,nausea,sweating,vomiting,,,,,,,,,,malaria
+muscle_pain,headache,patches_in_throat,diarrhoea,nausea,sweating,vomiting,,,,,,,,,,,malaria
+chills,headache,diarrhoea,high_fever,continuous_sneezing,nausea,sweating,,,,,,,,,,,malaria
+chills,muscle_pain,headache,unsteadiness,diarrhoea,nausea,sweating,,,,,,,,,,,malaria
+chills,loss_of_appetite,muscle_pain,headache,diarrhoea,nausea,vomiting,fatigue,,,,,,,,,,malaria
+chills,muscle_pain,weight_loss,diarrhoea,high_fever,nausea,vomiting,,,,,,,,,,,malaria
+muscle_pain,headache,vomiting,mucoid_sputum,diarrhoea,high_fever,sweating,,,,,,,,,,,malaria
+loss_of_appetite,headache,lethargy,red_spots_over_body,swelled_lymph_nodes,malaise,itching,high_fever,mild_fever,fatigue,coma,,,,,,,chicken pox
+loss_of_appetite,lethargy,red_spots_over_body,swelled_lymph_nodes,malaise,high_fever,mild_fever,skin_rash,nausea,fatigue,,,,,,,,chicken pox
+loss_of_appetite,headache,red_spots_over_body,swelled_lymph_nodes,malaise,itching,high_fever,yellowing_of_eyes,mild_fever,fatigue,,,,,,,,chicken pox
+loss_of_appetite,headache,red_spots_over_body,swelled_lymph_nodes,prominent_veins_on_calf,malaise,itching,high_fever,mild_fever,skin_rash,,,,,,,,chicken pox
+loss_of_appetite,headache,anxiety,red_spots_over_body,swelled_lymph_nodes,malaise,itching,high_fever,mild_fever,skin_rash,headache,,,,,,,chicken pox
+loss_of_appetite,headache,lethargy,red_spots_over_body,prominent_veins_on_calf,malaise,itching,mild_fever,skin_rash,fatigue,vomiting,,,,,,,chicken pox
+loss_of_appetite,red_spots_over_body,swelled_lymph_nodes,malaise,itching,high_fever,mild_fever,skin_rash,increased_appetite,fatigue,,,,,,,,chicken pox
+headache,lethargy,red_spots_over_body,swelled_lymph_nodes,malaise,itching,high_fever,skin_rash,fatigue,ulcers_on_tongue,,,,,,,,chicken pox
+loss_of_appetite,headache,lethargy,red_spots_over_body,bloody_stool,malaise,itching,high_fever,skin_rash,fatigue,,,,,,,,chicken pox
+loss_of_appetite,headache,lethargy,red_spots_over_body,knee_pain,malaise,high_fever,mild_fever,skin_rash,fatigue,,,,,,,,chicken pox
+chills,swelling_joints,loss_of_appetite,muscle_pain,back_pain,headache,red_spots_over_body,joint_pain,high_fever,skin_rash,nausea,vomiting,nausea,,,,,dengue
+chills,pain_behind_the_eyes,loss_of_appetite,headache,back_pain,red_spots_over_body,joint_pain,high_fever,yellowing_of_eyes,skin_rash,nausea,fatigue,vomiting,,,,,dengue
+chills,loss_of_appetite,muscle_pain,headache,joint_pain,malaise,high_fever,skin_rash,increased_appetite,nausea,fatigue,vomiting,,,,,,dengue
+chills,pain_behind_the_eyes,loss_of_appetite,muscle_pain,back_pain,headache,red_spots_over_body,joint_pain,malaise,dizziness,high_fever,nausea,fatigue,,,,,dengue
+chills,loss_of_appetite,pain_behind_the_eyes,muscle_pain,headache,back_pain,red_spots_over_body,malaise,bladder_discomfort,nausea,fatigue,vomiting,headache,,,,,dengue
+loss_of_appetite,pain_behind_the_eyes,back_pain,headache,red_spots_over_body,patches_in_throat,joint_pain,malaise,high_fever,skin_rash,nausea,vomiting,,,,,,dengue
+chills,loss_of_appetite,pain_behind_the_eyes,headache,back_pain,red_spots_over_body,malaise,high_fever,skin_rash,nausea,spotting__urination,fatigue,vomiting,headache,,,,dengue
+chills,loss_of_appetite,pain_behind_the_eyes,muscle_pain,back_pain,headache,joint_pain,malaise,altered_sensorium,high_fever,skin_rash,fatigue,,,,,,dengue
+loss_of_appetite,pain_behind_the_eyes,muscle_pain,headache,back_pain,red_spots_over_body,joint_pain,high_fever,yellowing_of_eyes,skin_rash,nausea,vomiting,,,,,,dengue
+chills,pain_behind_the_eyes,loss_of_appetite,back_pain,headache,red_spots_over_body,joint_pain,malaise,high_fever,skin_rash,nausea,fatigue,vomiting,,,,,dengue
+chills,belly_pain,movement_stiffness,toxic_look_(typhos),diarrhoea,high_fever,abdominal_pain,nausea,fatigue,vomiting,,,,,,,,typhoid
+chills,constipation,belly_pain,headache,toxic_look_(typhos),pain_during_bowel_movements,diarrhoea,high_fever,fatigue,abdominal_pain,,,,,,,,typhoid
+chills,pain_in_anal_region,headache,belly_pain,vomiting,toxic_look_(typhos),diarrhoea,high_fever,nausea,abdominal_pain,,,,,,,,typhoid
+chills,constipation,headache,belly_pain,toxic_look_(typhos),malaise,high_fever,nausea,fatigue,vomiting,,,,,,,,typhoid
+chills,constipation,belly_pain,headache,toxic_look_(typhos),high_fever,nausea,distention_of_abdomen,fatigue,vomiting,,,,,,,,typhoid
+chills,headache,belly_pain,foul_smell_of_urine,diarrhoea,high_fever,abdominal_pain,nausea,fatigue,vomiting,,,,,,,,typhoid
+chills,constipation,headache,vomiting,diarrhoea,high_fever,nausea,distention_of_abdomen,fatigue,abdominal_pain,,,,,,,,typhoid
+chills,constipation,headache,belly_pain,silver_like_dusting,toxic_look_(typhos),diarrhoea,high_fever,abdominal_pain,fatigue,vomiting,nausea,,,,,,typhoid
+chills,constipation,headache,belly_pain,toxic_look_(typhos),diarrhoea,yellow_urine,nausea,fatigue,abdominal_pain,,,,,,,,typhoid
+loss_of_appetite,muscle_pain,yellowish_skin,weight_gain,joint_pain,dark_urine,yellowing_of_eyes,mild_fever,nausea,abdominal_pain,vomiting,,,,,,,hepatitis a
+loss_of_appetite,muscle_pain,abnormal_menstruation,dark_urine,diarrhoea,yellowing_of_eyes,mild_fever,abdominal_pain,nausea,vomiting,nausea,,,,,,,hepatitis a
+obesity,muscle_pain,yellowish_skin,joint_pain,dark_urine,diarrhoea,yellowing_of_eyes,mild_fever,nausea,abdominal_pain,,,,,,,,hepatitis a
+loss_of_appetite,muscle_pain,joint_pain,dark_urine,yellowing_of_eyes,mild_fever,abdominal_pain,nausea,vomiting,vomiting,,,,,,,,hepatitis a
+loss_of_appetite,obesity,muscle_pain,yellowish_skin,vomiting,joint_pain,diarrhoea,yellowing_of_eyes,mild_fever,abdominal_pain,,,,,,,,hepatitis a
+loss_of_appetite,muscle_pain,vomiting,drying_and_tingling_lips,joint_pain,dark_urine,diarrhoea,yellowing_of_eyes,mild_fever,abdominal_pain,,,,,,,,hepatitis a
+muscle_pain,yellowish_skin,foul_smell_of_urine,joint_pain,diarrhoea,yellowing_of_eyes,mild_fever,abdominal_pain,nausea,vomiting,fatigue,,,,,,,hepatitis a
+loss_of_appetite,muscle_pain,yellowish_skin,dark_urine,diarrhoea,muscle_wasting,yellowing_of_eyes,mild_fever,nausea,vomiting,,,,,,,,hepatitis a
+muscle_pain,yellowish_skin,vomiting,lack_of_concentration,joint_pain,dark_urine,yellowing_of_eyes,mild_fever,nausea,abdominal_pain,headache,,,,,,,hepatitis a
+loss_of_appetite,slurred_speech,yellowish_skin,lethargy,yellowing_of_eyes,malaise,receiving_blood_transfusion,receiving_unsterile_injections,itching,yellow_urine,fatigue,fatigue,,,,,,hepatitis b
+loss_of_appetite,yellowish_skin,joint_pain,receiving_blood_transfusion,dark_urine,malaise,receiving_unsterile_injections,yellowing_of_eyes,yellow_urine,fatigue,abdominal_pain,,,,,,,hepatitis b
+loss_of_appetite,yellowish_skin,lethargy,yellowing_of_eyes,joint_pain,malaise,dark_urine,receiving_blood_transfusion,itching,yellow_urine,,,,,,,,hepatitis b
+yellowish_skin,yellowing_of_eyes,receiving_blood_transfusion,dark_urine,malaise,receiving_unsterile_injections,extra_marital_contacts,itching,yellow_urine,fatigue,abdominal_pain,,,,,,,hepatitis b
+lethargy,yellowing_of_eyes,swelled_lymph_nodes,receiving_blood_transfusion,dark_urine,malaise,receiving_unsterile_injections,yellow_urine,fatigue,abdominal_pain,nausea,,,,,,,hepatitis b
+loss_of_appetite,yellowish_skin,lethargy,painful_walking,receiving_unsterile_injections,itching,yellowing_of_eyes,yellow_urine,fatigue,abdominal_pain,,,,,,,,hepatitis b
+yellowish_skin,lethargy,yellowing_of_eyes,receiving_blood_transfusion,dark_urine,receiving_unsterile_injections,itching,yellow_urine,spotting__urination,fatigue,abdominal_pain,,,,,,,hepatitis b
+loss_of_appetite,yellowish_skin,lethargy,malaise,dark_urine,receiving_blood_transfusion,receiving_unsterile_injections,acidity,itching,yellowing_of_eyes,fatigue,,,,,,,hepatitis b
+loss_of_appetite,yellowish_skin,lethargy,weakness_of_one_body_side,receiving_blood_transfusion,dark_urine,malaise,receiving_unsterile_injections,itching,yellowing_of_eyes,fatigue,headache,,,,,,hepatitis b
+loss_of_appetite,family_history,nausea,fatigue,puffy_face_and_eyes,,,,,,,,,,,,,hepatitis c
+yellowish_skin,lethargy,yellowing_of_eyes,family_history,nausea,fatigue,,,,,,,,,,,,hepatitis c
+loss_of_appetite,yellowish_skin,phlegm,yellowing_of_eyes,family_history,,,,,,,,,,,,,hepatitis c
+loss_of_appetite,shivering,yellowing_of_eyes,family_history,fatigue,fatigue,,,,,,,,,,,,hepatitis c
+loss_of_appetite,yellowing_of_eyes,family_history,fatigue,abdominal_pain,,,,,,,,,,,,,hepatitis c
+yellowish_skin,yellowing_of_eyes,family_history,cramps,fatigue,headache,,,,,,,,,,,,hepatitis c
+abnormal_menstruation,yellowish_skin,yellowing_of_eyes,nausea,fatigue,,,,,,,,,,,,,hepatitis c
+loss_of_appetite,yellowish_skin,vomiting,toxic_look_(typhos),joint_pain,dark_urine,nausea,fatigue,abdominal_pain,,,,,,,,,hepatitis d
+loss_of_appetite,belly_pain,yellowish_skin,dark_urine,yellowing_of_eyes,nausea,fatigue,vomiting,,,,,,,,,,hepatitis d
+loss_of_appetite,joint_pain,receiving_blood_transfusion,dark_urine,yellowing_of_eyes,nausea,fatigue,abdominal_pain,,,,,,,,,,hepatitis d
+yellowish_skin,vomiting,indigestion,joint_pain,dark_urine,yellowing_of_eyes,nausea,abdominal_pain,,,,,,,,,,hepatitis d
+loss_of_appetite,acute_liver_failure,joint_pain,yellowing_of_eyes,abdominal_pain,nausea,fatigue,vomiting,,,,,,,,,,hepatitis d
+loss_of_appetite,yellowish_skin,joint_pain,yellowing_of_eyes,nausea,fatigue,vomiting,fatigue,,,,,,,,,,hepatitis d
+loss_of_appetite,yellowish_skin,joint_pain,dark_urine,swelling_of_stomach,yellowing_of_eyes,fatigue,abdominal_pain,,,,,,,,,,hepatitis d
+fluid_overload,joint_pain,dark_urine,yellowing_of_eyes,abdominal_pain,nausea,fatigue,vomiting,,,,,,,,,,hepatitis d
+loss_of_appetite,abnormal_menstruation,yellowish_skin,joint_pain,dark_urine,nausea,fatigue,vomiting,,,,,,,,,,hepatitis d
+loss_of_appetite,yellowish_skin,joint_pain,depression,abdominal_pain,nausea,fatigue,vomiting,,,,,,,,,,hepatitis d
+stomach_bleeding,loss_of_appetite,coma,yellowish_skin,joint_pain,dark_urine,high_fever,yellowing_of_eyes,visual_disturbances,nausea,fatigue,abdominal_pain,,,,,,hepatitis e
+stomach_bleeding,loss_of_appetite,yellowish_skin,vomiting,acute_liver_failure,joint_pain,dark_urine,high_fever,yellowing_of_eyes,abdominal_pain,nausea,fatigue,coma,headache,,,,hepatitis e
+loss_of_appetite,coma,yellowish_skin,sunken_eyes,dark_urine,high_fever,yellowing_of_eyes,abdominal_pain,nausea,fatigue,vomiting,,,,,,,hepatitis e
+loss_of_appetite,coma,swollen_legs,yellowish_skin,acute_liver_failure,joint_pain,dark_urine,high_fever,yellowing_of_eyes,nausea,fatigue,abdominal_pain,,,,,,hepatitis e
+stomach_bleeding,loss_of_appetite,coma,yellowish_skin,vomiting,weakness_of_one_body_side,dark_urine,high_fever,yellowing_of_eyes,nausea,abdominal_pain,,,,,,,hepatitis e
+stomach_bleeding,loss_of_appetite,yellowish_skin,yellow_crust_ooze,acute_liver_failure,joint_pain,dark_urine,yellowing_of_eyes,nausea,fatigue,abdominal_pain,,,,,,,hepatitis e
+loss_of_appetite,vomiting,acute_liver_failure,joint_pain,dark_urine,high_fever,yellowing_of_eyes,small_dents_in_nails,abdominal_pain,nausea,fatigue,coma,,,,,,hepatitis e
+stomach_bleeding,loss_of_appetite,yellowish_skin,joint_pain,high_fever,yellowing_of_eyes,abdominal_pain,nausea,neck_pain,fatigue,coma,,,,,,,hepatitis e
+stomach_bleeding,loss_of_appetite,yellowish_skin,vomiting,acute_liver_failure,joint_pain,dark_urine,high_fever,yellowing_of_eyes,abdominal_pain,fast_heart_rate,coma,,,,,,hepatitis e
+yellowish_skin,fluid_overload,history_of_alcohol_consumption,swelling_of_stomach,nausea,distention_of_abdomen,abdominal_pain,headache,,,,,,,,,,alcoholic hepatitis
+fluid_overload,yellowish_skin,history_of_alcohol_consumption,depression,swelling_of_stomach,distention_of_abdomen,vomiting,,,,,,,,,,,alcoholic hepatitis
+fluid_overload,vomiting,swelling_of_stomach,swollen_blood_vessels,distention_of_abdomen,abdominal_pain,,,,,,,,,,,,alcoholic hepatitis
+swollen_legs,yellowish_skin,history_of_alcohol_consumption,swelling_of_stomach,distention_of_abdomen,vomiting,nausea,,,,,,,,,,,alcoholic hepatitis
+yellowish_skin,fluid_overload,vomiting,history_of_alcohol_consumption,sweating,abdominal_pain,headache,,,,,,,,,,,alcoholic hepatitis
+fluid_overload,yellowish_skin,swelling_of_stomach,abdominal_pain,nausea,vomiting,headache,,,,,,,,,,,alcoholic hepatitis
+yellowish_skin,fluid_overload,joint_pain,swelling_of_stomach,distention_of_abdomen,abdominal_pain,,,,,,,,,,,,alcoholic hepatitis
+mood_swings,history_of_alcohol_consumption,swelling_of_stomach,abdominal_pain,distention_of_abdomen,vomiting,vomiting,,,,,,,,,,,alcoholic hepatitis
+chills,loss_of_appetite,blood_in_sputum,weight_loss,phlegm,chest_pain,breathlessness,swelled_lymph_nodes,malaise,cough,high_fever,yellowing_of_eyes,mild_fever,family_history,fatigue,sweating,headache,tuberculosis
+blood_in_sputum,loss_of_appetite,weight_loss,vomiting,phlegm,swelled_lymph_nodes,breathlessness,malaise,cough,yellowing_of_eyes,mild_fever,skin_peeling,fatigue,sweating,,,,tuberculosis
+chills,blood_in_sputum,loss_of_appetite,watering_from_eyes,swelled_lymph_nodes,chest_pain,breathlessness,phlegm,cough,malaise,high_fever,yellowing_of_eyes,mild_fever,fatigue,sweating,,,tuberculosis
+chills,loss_of_appetite,blood_in_sputum,swelled_lymph_nodes,chest_pain,breathlessness,phlegm,malaise,cough,high_fever,yellowing_of_eyes,mild_fever,enlarged_thyroid,sweating,,,,tuberculosis
+chills,loss_of_appetite,blood_in_sputum,phlegm,swelled_lymph_nodes,chest_pain,breathlessness,malaise,cough,high_fever,mild_fever,sweating,vomiting,headache,,,,tuberculosis
+chills,blood_in_sputum,weight_loss,vomiting,swelled_lymph_nodes,chest_pain,breathlessness,phlegm,malaise,acute_liver_failure,yellowing_of_eyes,mild_fever,fatigue,sweating,,,,tuberculosis
+chills,loss_of_appetite,blood_in_sputum,swollen_legs,phlegm,chest_pain,breathlessness,fatigue,cough,swelled_lymph_nodes,malaise,yellowing_of_eyes,mild_fever,sweating,vomiting,headache,,tuberculosis
+chills,blood_in_sputum,loss_of_appetite,weight_loss,phlegm,chest_pain,swelled_lymph_nodes,malaise,cough,yellowing_of_eyes,mild_fever,abdominal_pain,sweating,vomiting,fatigue,,,tuberculosis
+chills,blood_in_sputum,weight_loss,swelled_lymph_nodes,chest_pain,breathlessness,phlegm,cough,malaise,high_fever,yellowing_of_eyes,mild_fever,fatigue,vomiting,,,,tuberculosis
+chills,swelling_joints,congestion,headache,muscle_pain,throat_irritation,swelled_lymph_nodes,chest_pain,cough,malaise,runny_nose,loss_of_smell,high_fever,continuous_sneezing,fatigue,nausea,,common cold
+chills,congestion,headache,muscle_pain,sinus_pressure,throat_irritation,phlegm,chest_pain,swelled_lymph_nodes,redness_of_eyes,malaise,cough,runny_nose,loss_of_smell,high_fever,fatigue,,common cold
+muscle_pain,headache,sinus_pressure,throat_irritation,phlegm,redness_of_eyes,swelled_lymph_nodes,malaise,cough,dark_urine,loss_of_smell,high_fever,continuous_sneezing,fatigue,fatigue,,,common cold
+chills,muscle_pain,headache,muscle_weakness,sinus_pressure,throat_irritation,phlegm,redness_of_eyes,chest_pain,swelled_lymph_nodes,cough,runny_nose,loss_of_smell,high_fever,continuous_sneezing,,,common cold
+chills,muscle_pain,headache,congestion,sinus_pressure,throat_irritation,swelled_lymph_nodes,chest_pain,redness_of_eyes,runny_nose,malaise,palpitations,continuous_sneezing,fatigue,,,,common cold
+chills,congestion,headache,muscle_pain,sinus_pressure,throat_irritation,phlegm,chest_pain,redness_of_eyes,swelled_lymph_nodes,malaise,runny_nose,pain_during_bowel_movements,loss_of_smell,continuous_sneezing,fatigue,,common cold
+chills,muscle_pain,sinus_pressure,phlegm,chest_pain,swelled_lymph_nodes,redness_of_eyes,malaise,runny_nose,cough,loss_of_smell,high_fever,continuous_sneezing,fatigue,extra_marital_contacts,,,common cold
+chills,muscle_pain,headache,congestion,sinus_pressure,throat_irritation,redness_of_eyes,chest_pain,cough,runny_nose,loss_of_smell,shivering,continuous_sneezing,fatigue,headache,,,common cold
+chills,congestion,headache,muscle_pain,foul_smell_of_urine,sinus_pressure,swelled_lymph_nodes,chest_pain,phlegm,cough,loss_of_smell,high_fever,continuous_sneezing,fatigue,,,,common cold
+chills,silver_like_dusting,fatigue,breathlessness,chest_pain,malaise,cough,high_fever,fast_heart_rate,sweating,headache,,,,,,,pneumonia
+chills,sunken_eyes,phlegm,chest_pain,breathlessness,malaise,cough,rusty_sputum,high_fever,fatigue,sweating,fatigue,,,,,,pneumonia
+congestion,phlegm,fatigue,breathlessness,cough,malaise,rusty_sputum,high_fever,fast_heart_rate,sweating,,,,,,,,pneumonia
+chills,phlegm,chest_pain,breathlessness,malaise,diarrhoea,rusty_sputum,high_fever,fast_heart_rate,sweating,vomiting,,,,,,,pneumonia
+chills,coma,phlegm,chest_pain,breathlessness,fatigue,rusty_sputum,high_fever,fast_heart_rate,sweating,,,,,,,,pneumonia
+phlegm,chest_pain,breathlessness,fatigue,malaise,cough,rusty_sputum,abdominal_pain,fast_heart_rate,sweating,,,,,,,,pneumonia
+chills,phlegm,fatigue,chest_pain,cough,malaise,history_of_alcohol_consumption,rusty_sputum,high_fever,fast_heart_rate,,,,,,,,pneumonia
+chills,loss_of_balance,phlegm,chest_pain,breathlessness,malaise,cough,rusty_sputum,high_fever,fast_heart_rate,,,,,,,,pneumonia
+chills,chest_pain,breathlessness,cough,dark_urine,rusty_sputum,high_fever,fast_heart_rate,fatigue,sweating,,,,,,,,pneumonia
+constipation,pain_in_anal_region,irritation_in_anus,yellow_crust_ooze,bloody_stool,,,,,,,,,,,,,dimorphic hemmorhoids(piles)
+inflammatory_nails,pain_in_anal_region,pain_during_bowel_movements,irritation_in_anus,,,,,,,,,,,,,,dimorphic hemmorhoids(piles)
+pain_in_anal_region,irritation_in_anus,bloody_stool,bladder_discomfort,,,,,,,,,,,,,,dimorphic hemmorhoids(piles)
+knee_pain,constipation,pain_during_bowel_movements,bloody_stool,,,,,,,,,,,,,,dimorphic hemmorhoids(piles)
+constipation,irritation_in_anus,pain_during_bowel_movements,prominent_veins_on_calf,,,,,,,,,,,,,,dimorphic hemmorhoids(piles)
+depression,pain_in_anal_region,pain_during_bowel_movements,bloody_stool,fatigue,,,,,,,,,,,,,dimorphic hemmorhoids(piles)
+rusty_sputum,chest_pain,breathlessness,vomiting,,,,,,,,,,,,,,heart attack
+depression,breathlessness,sweating,,,,,,,,,,,,,,,heart attack
+restlessness,chest_pain,vomiting,,,,,,,,,,,,,,,heart attack
+acidity,breathlessness,vomiting,,,,,,,,,,,,,,,heart attack
+pus_filled_pimples,vomiting,sweating,,,,,,,,,,,,,,,heart attack
+obesity,swollen_legs,dehydration,prominent_veins_on_calf,bruising,swollen_blood_vessels,fatigue,,,,,,,,,,,varicose veins
+obesity,cramps,swollen_legs,swollen_extremeties,bruising,swollen_blood_vessels,,,,,,,,,,,,varicose veins
+obesity,swollen_legs,chest_pain,bruising,swollen_blood_vessels,fatigue,,,,,,,,,,,,varicose veins
+swollen_legs,prominent_veins_on_calf,swollen_blood_vessels,scurring,cramps,fatigue,,,,,,,,,,,,varicose veins
+cramps,swollen_legs,throat_irritation,prominent_veins_on_calf,swollen_blood_vessels,fatigue,,,,,,,,,,,,varicose veins
+obesity,cramps,prominent_veins_on_calf,bruising,yellow_urine,swollen_blood_vessels,fatigue,,,,,,,,,,,varicose veins
+obesity,swollen_legs,prominent_veins_on_calf,dizziness,cramps,fatigue,headache,,,,,,,,,,,varicose veins
+irregular_sugar_level,obesity,cramps,bruising,swollen_blood_vessels,fatigue,vomiting,,,,,,,,,,,varicose veins
+abnormal_menstruation,mood_swings,lethargy,weight_gain,swollen_extremeties,brittle_nails,cold_hands_and_feets,irritability,depression,enlarged_thyroid,spotting__urination,fatigue,puffy_face_and_eyes,,,,,hypothyroidism
+abnormal_menstruation,mood_swings,back_pain,lethargy,weight_gain,swollen_extremeties,brittle_nails,depression,irritability,cold_hands_and_feets,enlarged_thyroid,puffy_face_and_eyes,,,,,,hypothyroidism
+abnormal_menstruation,mood_swings,lethargy,swollen_extremeties,dizziness,irritability,depression,cold_hands_and_feets,enlarged_thyroid,neck_pain,fatigue,puffy_face_and_eyes,,,,,,hypothyroidism
+mood_swings,abnormal_menstruation,lethargy,weight_gain,swollen_extremeties,brittle_nails,skin_peeling,irritability,depression,enlarged_thyroid,fatigue,puffy_face_and_eyes,,,,,,hypothyroidism
+abnormal_menstruation,lethargy,weight_gain,swollen_extremeties,pain_during_bowel_movements,brittle_nails,dizziness,depression,cold_hands_and_feets,irritability,enlarged_thyroid,vomiting,,,,,,hypothyroidism
+mood_swings,abnormal_menstruation,weight_gain,swollen_extremeties,knee_pain,brittle_nails,dizziness,irritability,cold_hands_and_feets,depression,enlarged_thyroid,fatigue,,,,,,hypothyroidism
+abnormal_menstruation,mood_swings,lethargy,weight_gain,nodal_skin_eruptions,brittle_nails,cold_hands_and_feets,irritability,depression,enlarged_thyroid,fatigue,puffy_face_and_eyes,nausea,,,,,hypothyroidism
+mood_swings,abnormal_menstruation,yellowish_skin,weight_gain,swollen_extremeties,brittle_nails,dizziness,irritability,depression,cold_hands_and_feets,fatigue,,,,,,,hypothyroidism
+abnormal_menstruation,mood_swings,muscle_weakness,weight_loss,restlessness,indigestion,diarrhoea,irritability,fast_heart_rate,fatigue,sweating,vomiting,,,,,,hyperthyroidism
+weight_loss,mood_swings,muscle_weakness,restlessness,excessive_hunger,diarrhoea,irritability,fast_heart_rate,sweating,,,,,,,,,hyperthyroidism
+abnormal_menstruation,weight_loss,muscle_weakness,restlessness,fatigue,diarrhoea,irritability,fast_heart_rate,sweating,,,,,,,,,hyperthyroidism
+abnormal_menstruation,muscle_weakness,restlessness,fatigue,excessive_hunger,diarrhoea,muscle_wasting,irritability,fast_heart_rate,sweating,,,,,,,,hyperthyroidism
+abnormal_menstruation,mood_swings,muscle_weakness,weight_loss,excessive_hunger,diarrhoea,fast_heart_rate,spotting__urination,fatigue,sweating,,,,,,,,hyperthyroidism
+weight_loss,mood_swings,muscle_weakness,abnormal_menstruation,restlessness,fluid_overload,excessive_hunger,diarrhoea,irritability,fatigue,,,,,,,,hyperthyroidism
+weight_loss,mood_swings,muscle_weakness,restlessness,knee_pain,excessive_hunger,irritability,fast_heart_rate,fatigue,sweating,,,,,,,,hyperthyroidism
+constipation,abnormal_menstruation,mood_swings,muscle_weakness,restlessness,excessive_hunger,diarrhoea,irritability,fatigue,sweating,,,,,,,,hyperthyroidism
+weight_loss,mood_swings,muscle_weakness,abnormal_menstruation,fatigue,diarrhoea,irritability,fast_heart_rate,sweating,,,,,,,,,hyperthyroidism
+slurred_speech,headache,vomiting,weight_gain,excessive_hunger,palpitations,irritability,anxiety,blurred_and_distorted_vision,fatigue,sweating,,,,,,,hypoglycemia
+weight_loss,headache,excessive_hunger,palpitations,irritability,sweating,anxiety,blurred_and_distorted_vision,nausea,fatigue,vomiting,,,,,,,hypoglycemia
+slurred_speech,headache,red_spots_over_body,excessive_hunger,palpitations,irritability,drying_and_tingling_lips,anxiety,nausea,sweating,,,,,,,,hypoglycemia
+slurred_speech,headache,excessive_hunger,palpitations,malaise,irritability,drying_and_tingling_lips,blurred_and_distorted_vision,nausea,sweating,vomiting,,,,,,,hypoglycemia
+headache,excessive_hunger,palpitations,irritability,shivering,sweating,drying_and_tingling_lips,blurred_and_distorted_vision,nausea,fatigue,vomiting,,,,,,,hypoglycemia
+abnormal_menstruation,headache,excessive_hunger,palpitations,irritability,drying_and_tingling_lips,anxiety,blurred_and_distorted_vision,nausea,fatigue,vomiting,,,,,,,hypoglycemia
+slurred_speech,weight_gain,excessive_hunger,palpitations,sweating,drying_and_tingling_lips,anxiety,nausea,fatigue,vomiting,,,,,,,,hypoglycemia
+slurred_speech,headache,weakness_in_limbs,excessive_hunger,irritability,sweating,drying_and_tingling_lips,anxiety,blurred_and_distorted_vision,fatigue,vomiting,fatigue,,,,,,hypoglycemia
+slurred_speech,headache,phlegm,excessive_hunger,palpitations,irritability,sweating,anxiety,nausea,fatigue,vomiting,,,,,,,hypoglycemia
+hip_joint_pain,swelling_joints,knee_pain,painful_walking,loss_of_smell,neck_pain,,,,,,,,,,,,osteoarthristis
+hip_joint_pain,swelling_joints,knee_pain,weakness_of_one_body_side,neck_pain,,,,,,,,,,,,,osteoarthristis
+hip_joint_pain,swelling_joints,joint_pain,painful_walking,continuous_sneezing,nausea,,,,,,,,,,,,osteoarthristis
+hip_joint_pain,joint_pain,painful_walking,rusty_sputum,neck_pain,,,,,,,,,,,,,osteoarthristis
+swelling_joints,neck_pain,joint_pain,painful_walking,spotting__urination,,,,,,,,,,,,,osteoarthristis
+hip_joint_pain,joint_pain,painful_walking,anxiety,neck_pain,nausea,,,,,,,,,,,,osteoarthristis
+hip_joint_pain,swelling_joints,knee_pain,joint_pain,muscle_wasting,nausea,,,,,,,,,,,,osteoarthristis
+muscle_weakness,movement_stiffness,brittle_nails,stiff_neck,painful_walking,,,,,,,,,,,,,arthritis
+dischromic__patches,swelling_joints,painful_walking,movement_stiffness,,,,,,,,,,,,,,arthritis
+stiff_neck,painful_walking,movement_stiffness,muscle_weakness,,,,,,,,,,,,,,arthritis
+stiff_neck,movement_stiffness,muscle_weakness,yellow_crust_ooze,,,,,,,,,,,,,,arthritis
+stiff_neck,painful_walking,blood_in_sputum,swelling_joints,,,,,,,,,,,,,,arthritis
+stiff_neck,phlegm,movement_stiffness,muscle_weakness,,,,,,,,,,,,,,arthritis
+headache,toxic_look_(typhos),unsteadiness,spinning_movements,nausea,vomiting,,,,,,,,,,,,(vertigo) paroymsal  positional vertigo
+loss_of_balance,headache,spinning_movements,nausea,coma,vomiting,,,,,,,,,,,,(vertigo) paroymsal  positional vertigo
+unsteadiness,spinning_movements,nausea,internal_itching,vomiting,vomiting,,,,,,,,,,,,(vertigo) paroymsal  positional vertigo
+headache,patches_in_throat,unsteadiness,spinning_movements,vomiting,,,,,,,,,,,,,(vertigo) paroymsal  positional vertigo
+loss_of_balance,headache,unsteadiness,nausea,vomiting,,,,,,,,,,,,,(vertigo) paroymsal  positional vertigo
+headache,unsteadiness,spinning_movements,receiving_unsterile_injections,nausea,,,,,,,,,,,,,(vertigo) paroymsal  positional vertigo
+loss_of_balance,spinning_movements,family_history,nausea,vomiting,,,,,,,,,,,,,(vertigo) paroymsal  positional vertigo
+scurring,skin_rash,stiff_neck,blackheads,,,,,,,,,,,,,,acne
+blackheads,scurring,swollen_legs,nausea,,,,,,,,,,,,,,acne
+blackheads,scurring,patches_in_throat,,,,,,,,,,,,,,,acne
+scurring,skin_rash,rusty_sputum,,,,,,,,,,,,,,,acne
+blackheads,pus_filled_pimples,congestion,nausea,,,,,,,,,,,,,,acne
+continuous_feel_of_urine,visual_disturbances,burning_micturition,bladder_discomfort,,,,,,,,,,,,,,urinary tract infection
+abdominal_pain,continuous_feel_of_urine,bladder_discomfort,,,,,,,,,,,,,,,urinary tract infection
+continuous_feel_of_urine,prominent_veins_on_calf,foul_smell_of_urine,nausea,,,,,,,,,,,,,,urinary tract infection
+continuous_feel_of_urine,brittle_nails,bladder_discomfort,,,,,,,,,,,,,,,urinary tract infection
+pain_during_bowel_movements,burning_micturition,foul_smell_of_urine,,,,,,,,,,,,,,,urinary tract infection
+silver_like_dusting,muscle_weakness,small_dents_in_nails,skin_rash,inflammatory_nails,skin_peeling,,,,,,,,,,,,psoriasis
+silver_like_dusting,joint_pain,swelling_of_stomach,inflammatory_nails,skin_peeling,,,,,,,,,,,,,psoriasis
+silver_like_dusting,throat_irritation,skin_rash,inflammatory_nails,skin_peeling,,,,,,,,,,,,,psoriasis
+silver_like_dusting,phlegm,small_dents_in_nails,skin_rash,inflammatory_nails,,,,,,,,,,,,,psoriasis
+joint_pain,bruising,skin_rash,inflammatory_nails,skin_peeling,,,,,,,,,,,,,psoriasis
+silver_like_dusting,joint_pain,dizziness,inflammatory_nails,skin_peeling,,,,,,,,,,,,,psoriasis
+silver_like_dusting,muscle_weakness,joint_pain,small_dents_in_nails,skin_rash,vomiting,,,,,,,,,,,,psoriasis
+blister,red_sore_around_nose,yellow_crust_ooze,toxic_look_(typhos),high_fever,,,,,,,,,,,,,impetigo
+history_of_alcohol_consumption,blister,red_sore_around_nose,yellow_crust_ooze,,,,,,,,,,,,,,impetigo
+skin_rash,blurred_and_distorted_vision,red_sore_around_nose,yellow_crust_ooze,,,,,,,,,,,,,,impetigo
+stiff_neck,skin_rash,red_sore_around_nose,yellow_crust_ooze,,,,,,,,,,,,,,impetigo
+weight_gain,skin_rash,high_fever,yellow_crust_ooze,,,,,,,,,,,,,,impetigo
+skin_rash,blister,red_sore_around_nose,continuous_sneezing,,,,,,,,,,,,,,impetigo

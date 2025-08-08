@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MediScan AI - Home</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+    {% block content %} 
+
+  <!-- Hero Section -->
+  <section class="bg-gradient-to-br from-blue-50 to-purple-100 py-24">
+    <div class="max-w-7xl mx-auto px-6 flex flex-col-reverse lg:flex-row items-center justify-between gap-20">
+      <!-- Left -->
+      <div class="lg:w-1/2 text-center lg:text-left">
+        <h2 class="text-5xl font-extrabold leading-tight text-gray-900 mb-6">
+          Your Personal AI<br> Health Assistant
+        </h2>
+        <p class="text-lg text-gray-700 mb-8">
+          Answer a few simple questions and get instant disease predictions powered by AI.
+        </p>
+        <a href="/predict/" class="inline-block bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg shadow-md text-lg transition">
+          Start Now
+        </a>
+      </div>
+
+      <!-- Right -->
+      <div class="lg:w-1/2 flex justify-center">
+        <img src="https://imgs.search.brave.com/pLVYVGX43OnpHFFN-HY9n9dZn4D-U_FwQNz9fuWqp_0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/aGVhbHRoeS1wZW9w/bGUtY2Fycnlpbmct/ZGlmZmVyZW50LWlj/b25zXzUzODc2LTY2/MTM5LmpwZz9zZW10/PWFpc19oeWJyaWQm/dz03NDA" 
+             alt="Health Diagnosis" 
+             class="w-full max-w-md rounded-xl shadow-lg object-cover">
+      </div>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="py-20 bg-white">
+    <div class="max-w-6xl mx-auto px-6">
+      <h3 class="text-3xl font-bold text-center text-gray-900 mb-14">Why Choose MediScan AI?</h3>
+      <div class="grid md:grid-cols-3 gap-10">
+        <div class="bg-blue-50 p-8 rounded-xl shadow hover:shadow-lg transition">
+          <h4 class="text-xl font-semibold mb-3 text-blue-700">⚡ Instant Results</h4>
+          <p class="text-gray-700">Get immediate predictions based on your symptoms using our trained AI model.</p>
+        </div>
+        <div class="bg-blue-50 p-8 rounded-xl shadow hover:shadow-lg transition">
+          <h4 class="text-xl font-semibold mb-3 text-blue-700">🔐 Privacy Focused</h4>
+          <p class="text-gray-700">We don't store your data. Your privacy and trust are our top priorities.</p>
+        </div>
+        <div class="bg-blue-50 p-8 rounded-xl shadow hover:shadow-lg transition">
+          <h4 class="text-xl font-semibold mb-3 text-blue-700">🧠 AI-Powered Accuracy</h4>
+          <p class="text-gray-700">Our model is trained on real-world medical data to give you reliable suggestions.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    {% endblock %}
+
+</body>
+</html>
